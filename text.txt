@@ -1,3 +1,5 @@
 Hello
 
+Mine here.
+
 I want to see a conflict here.
