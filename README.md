@@ -1,6 +1,6 @@
 # antoniobarreraumg.github.io
 
-This is not normal text.
+This is normal text.
  
 `This is code.`
 
@@ -30,4 +30,4 @@ too
 >  > Here is a 
 >  > quoted quote.
 > * Here is a 
-> * quted list
+> * quoted list
